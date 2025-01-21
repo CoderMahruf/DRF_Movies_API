@@ -109,11 +109,11 @@ Uploaded images are stored in the `media/` directory and served via the API and 
 ## Screenshots
 
 ### API Interface
-![API Screenshot 1](screenshots/1.png)
-![API Screenshot 2](screenshots/2.png)
+![API Screenshot 1](screenshot/1.png)
+![API Screenshot 2](screenshot/2.png)
 
 ### Admin Panel
-![Admin Panel Screenshot](screenshots/3.png)
+![Admin Panel Screenshot](screenshot/3.png)
 
 ---
 
